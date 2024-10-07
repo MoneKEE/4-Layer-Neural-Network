@@ -1,4 +1,4 @@
-#4-Layer Neural Network
+# 4-Layer Neural Network
 
 This module implements a 4-layer neural network that uses backpropagation to learn a mapping from a binary input dataset to a binary output dataset. The network is designed to train and predict binary outputs based on a 4x4 input matrix.
 
